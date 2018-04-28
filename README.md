@@ -50,4 +50,4 @@ if __name__ == '__main__':
 	# users = ['user1','user2']
 
 	# for user in users:
-	# 	get_tweets(user)
+	# 	get_tweets(Bitcoin)
