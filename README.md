@@ -51,3 +51,4 @@ if __name__ == '__main__':
 
 	# for user in users:
 	# 	get_tweets(Bitcoin)
+	$python get_tweets.py Bitcoin
