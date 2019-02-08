@@ -1,4 +1,4 @@
-# Hello-World
+# Python code to download tweets from twitter
 $ git clone https://github.com/gitlaura/get_tweets.git
 $ cd get_tweets
 import sys
